@@ -9,14 +9,16 @@ The pace of play in ***basketball is incredibly quick and thrilling***. On the c
 
 ## My favourite Basketball team is Golden State Warriors
 
-1. Stephen Curry
-2. Klay Thompson
-3. Draymond Green
+- Stephen Curry
+- Klay Thompson
+- Draymond Green
 
 ## Other teams that I think would be good watch play
 * Boston Celtics
 * Cleveland Cavaliers
 * Los Angeles Lakers
 * Sacramento Kings
+
+
 
 
