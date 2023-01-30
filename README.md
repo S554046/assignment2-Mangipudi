@@ -9,6 +9,6 @@ The pace of play in ***basketball is incredibly quick and thrilling***. On the c
 
 ###### My favourite Basketball team is Golden State Warriors
 
-1.Stephen Curry
-2.Klay Thompson
-3.Draymond Green
+1. Stephen Curry
+2. Klay Thompson
+3. Draymond Green
