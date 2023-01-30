@@ -14,9 +14,9 @@ The pace of play in ***basketball is incredibly quick and thrilling***. On the c
 3. Draymond Green
 
 ## Other teams that I think would be good watch play
-Boston Celtics
-Cleveland Cavaliers
-Los Angeles Lakers
-Sacramento Kings
+* Boston Celtics
+* Cleveland Cavaliers
+* Los Angeles Lakers
+* Sacramento Kings
 
 
