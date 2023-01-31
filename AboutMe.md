@@ -6,3 +6,8 @@ I am from Hyderabad,India. I completed my undergraduation in Electronics and com
 
 -----
 ## Countries to visit
+
+In this table i am mentioning the countries that I feel are good to  visit and also the reason why I think that country is worth visiting.
+
+| Country | Reason to visit | Days to spend |
+| ------ | ----------------- | ------------ |
