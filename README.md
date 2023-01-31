@@ -19,6 +19,8 @@ The pace of play in ***basketball is incredibly quick and thrilling***. On the c
 * Los Angeles Lakers
 * Sacramento Kings
 
+[Click here to know about me](https://github.com/S554046/assignment2-Mangipudi/blob/main/AboutMe.md)
+
 
 
 
