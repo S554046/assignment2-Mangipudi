@@ -11,3 +11,7 @@ In this table i am mentioning the countries that I feel are good to  visit and a
 
 | Country | Reason to visit | Days to spend |
 | ------ | ----------------- | ------------ |
+| United Kingdom | From the magnificent natural coasts to the heart of the United Kingdom's historical walking tours there are many reasons to visit United Kingdom | 3 months |
+| ------ | ----------------- | ------------ |
+| United States of America | | 6 Months |
+| ------ | ----------------- | ------------ |
