@@ -11,7 +11,7 @@ In this table i am mentioning the countries that I feel are good to  visit and a
 
 | Country | Reason to visit | Days to spend |
 | ------ | ----------------- | ------------ |
-| United Kingdom | From the magnificent natural coasts to the heart of the United Kingdom's historical walking tours there are many reasons to visit United Kingdom | 3 months |
-| ------ | ----------------- | ------------ |
-| United States of America | | 6 Months |
-| ------ | ----------------- | ------------ |
+| United Kingdom | From the magnificent natural coasts to the heart of the United Kingdom's historical walking tours there and many reasons to visit United Kingdom | 3 months |
+| United States of America | America has pretty much everything you might imagine, from theme parks to historical sites, and it is reasonable to say that it is a place unlike any other. | 6 Months |
+| India | There are plenty of reasons to visit India, from large festivals to hiking to the top of the world, from rides on trains to taking in traditional dance | 6 months |
+| France | The world's top travel destinations include France. A three star hotel in this location is equivalent to a five star hotel elsewhere in the globe. | 3 months |
