@@ -24,3 +24,37 @@ In this table i am mentioning the countries that I feel are good to  visit and a
 
 > "I just want to lie on the beach and eat hot dogs. That's all I've ever wanted."
 *—Kevin Malone, The Office*
+
+-----
+
+## Code Fencing
+
+> How can I replicate a div a certain number of times based on a select-box value? 
+
+<https://stackoverflow.com/questions/6308970/how-can-i-replicate-a-div-a-certain-number-of-times-based-on-a-select-box-value/6309453#6309453>
+
+```
+$.fn.duplicate = function(count, cloneEvents) {
+       var tmp = [];
+       for ( var i = 0; i < count; i++ ) {
+               $.merge( tmp, this.clone( cloneEvents ).get() );
+       }
+       return this.pushStack( tmp );
+};
+The .clone() function of jQuery will duplicate a set once, but what if you need multiple copies of the same set? You would have to do:
+
+$(elem)
+   .clone()
+   .appendTo(otherElem)
+   .clone()
+   .appendTo(otherElem)
+   .clone()
+   .appendTo(otherElem);
+Now you can just:
+
+$(elem)
+   .duplicate(n)
+   .appendTo(otherElem);
+
+```
+link to the code <https://css-tricks.com/snippets/jquery/duplicate-plugin/>
